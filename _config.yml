@@ -15,6 +15,15 @@ defaults:
     values:
       layout: "post"
 
+projects:
+  sort_by: stars
+
+social_media:
+  instagram: _univa
+  telegram: univa
+  twitter: univa64
+  website: https://univa.ir
+
 topics:
   - name: Python
     web_url: https://github.com/topics/python
@@ -27,6 +36,3 @@ topics:
   - name: Flask
     web_url: https://github.com/topics/flask
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
-
-projects:
-  sort_by: stars
