@@ -20,11 +20,15 @@ projects:
   sort_by: stars
   exclude:
     forks: true
+    projects:
+     - blog
+     - .ex
 
 social_media:
   instagram: _univa
   telegram: univa
-  twitter: univa64
+  twitter: un1v4
+  keybase: RealAmirali
   website: https://univa.ir
 
 topics:
