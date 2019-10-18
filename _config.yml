@@ -18,6 +18,8 @@ defaults:
 
 projects:
   sort_by: stars
+  exclude:
+    forks: true
 
 social_media:
   instagram: _univa
